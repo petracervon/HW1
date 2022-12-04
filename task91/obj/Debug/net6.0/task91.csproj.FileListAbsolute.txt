@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HW2\task91\bin\Debug\net6.0\task91.exe
+C:\Users\user\Desktop\HW2\task91\bin\Debug\net6.0\task91.deps.json
+C:\Users\user\Desktop\HW2\task91\bin\Debug\net6.0\task91.runtimeconfig.json
+C:\Users\user\Desktop\HW2\task91\bin\Debug\net6.0\task91.dll
+C:\Users\user\Desktop\HW2\task91\bin\Debug\net6.0\task91.pdb
+C:\Users\user\Desktop\HW2\task91\obj\Debug\net6.0\task91.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HW2\task91\obj\Debug\net6.0\task91.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HW2\task91\obj\Debug\net6.0\task91.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HW2\task91\obj\Debug\net6.0\task91.AssemblyInfo.cs
+C:\Users\user\Desktop\HW2\task91\obj\Debug\net6.0\task91.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HW2\task91\obj\Debug\net6.0\task91.dll
+C:\Users\user\Desktop\HW2\task91\obj\Debug\net6.0\refint\task91.dll
+C:\Users\user\Desktop\HW2\task91\obj\Debug\net6.0\task91.pdb
+C:\Users\user\Desktop\HW2\task91\obj\Debug\net6.0\task91.genruntimeconfig.cache
+C:\Users\user\Desktop\HW2\task91\obj\Debug\net6.0\ref\task91.dll
