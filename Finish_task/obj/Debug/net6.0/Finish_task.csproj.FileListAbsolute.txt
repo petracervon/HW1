@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HW2\Finish_task\bin\Debug\net6.0\Finish_task.exe
+C:\Users\user\Desktop\HW2\Finish_task\bin\Debug\net6.0\Finish_task.deps.json
+C:\Users\user\Desktop\HW2\Finish_task\bin\Debug\net6.0\Finish_task.runtimeconfig.json
+C:\Users\user\Desktop\HW2\Finish_task\bin\Debug\net6.0\Finish_task.dll
+C:\Users\user\Desktop\HW2\Finish_task\bin\Debug\net6.0\Finish_task.pdb
+C:\Users\user\Desktop\HW2\Finish_task\obj\Debug\net6.0\Finish_task.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HW2\Finish_task\obj\Debug\net6.0\Finish_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HW2\Finish_task\obj\Debug\net6.0\Finish_task.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HW2\Finish_task\obj\Debug\net6.0\Finish_task.AssemblyInfo.cs
+C:\Users\user\Desktop\HW2\Finish_task\obj\Debug\net6.0\Finish_task.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HW2\Finish_task\obj\Debug\net6.0\Finish_task.dll
+C:\Users\user\Desktop\HW2\Finish_task\obj\Debug\net6.0\refint\Finish_task.dll
+C:\Users\user\Desktop\HW2\Finish_task\obj\Debug\net6.0\Finish_task.pdb
+C:\Users\user\Desktop\HW2\Finish_task\obj\Debug\net6.0\Finish_task.genruntimeconfig.cache
+C:\Users\user\Desktop\HW2\Finish_task\obj\Debug\net6.0\ref\Finish_task.dll
